@@ -62,7 +62,7 @@ class ShishirSrivastav:
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=difftheog&theme=dark&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=difftheog&theme=white&hide_border=true" />
   </a>
 </div>
 
