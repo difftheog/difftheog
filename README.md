@@ -13,24 +13,24 @@
 ## What Drives Me
 
 ```python
-class ShishirSrivastav:
+class KashifPathan:
     def __init__(self):
         self.role = "Full Stack Developer"
         self.experience = "3+ years"
-        self.philosophy = "If it's structured, it Should be Clean"
-        self.passion = ["Generative AI", "Clean Code", "Problem Solving", "Knowledge Sharing"]
-        self.current_focus = "Growing Continously"
+        self.stack = ["Node.js", "Python", "Web Development"]
+        self.philosophy = "Clean code. Scalable systems. No compromises."
+        self.current_focus = "Backend systems & automation"
     
     def daily_routine(self):
         return [
             "Chai + Code",
-            "Learn something new",
-            "Build & Automate",
-            "Share knowledge",
+            "Build & Break",
+            "Learn & Improve",
+            "Ship & Repeat",
         ]
     
     def fun_fact(self):
-        return "Only my code has logic, not my conversations 😄."
+        return "Debugging > Talking 😄"
 ```
 
 ---
