@@ -91,16 +91,13 @@ graph LR
     B --> C[Cloud Solutions]
     C --> D[Knowledge Sharing]
     D --> A
-    
-    style A fill:#e11d48,stroke:#f43f5e,stroke-width:3px,color:#ffffff
-    style B fill:#16a34a,stroke:#22c55e,stroke-width:3px,color:#ffffff
-    style C fill:#2563eb,stroke:#3b82f6,stroke-width:3px,color:#ffffff
-    style D fill:#dc2626,stroke:#ef4444,stroke-width:3px,color:#ffffff
 ```
 
+<div align="center">
+  
   ### Ready to build something amazing together?
   
-  <img src="https://komarev.com/ghpvc/?username=next-2-beat&style=flat-square&color=0066cc" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=difftheog&style=flat-square&color=0066cc" alt="Profile Views"/>
   
   **Star my repositories if you find them helpful!**
   
